@@ -14,3 +14,5 @@ Modul 1
 3. untuk memvalidasi inputan dari user
 
 4. digunakan untuk menemukan karakter apa pun yang bukan digit. Digit di dalam tanda kurung dapat berupa angka atau rentang angka dari 0 hingga 9.
+
+5. ![alt text](https://github.com/Vicri1803/CurrencyApps/blob/main/Soal%20No.%205%20Class%20Diagram.jpg)
